@@ -1,0 +1,30 @@
+.body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1d9e89;
+}
+.header {
+    background-color: #1d9e89;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center;
+}
+.container{
+    display: flex;
+}
+.box1{
+    width:20%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.box2 img{
+    width: 80%;
+    height: auto;
+    
+    border-radius: 20px;
+}
+.section {
+    padding: 40px 20px;
+    border-bottom: 1px solid #ccc;
+}
